@@ -1,0 +1,12 @@
+==> Searching for similarly named formulae and casks...
+==> Formulae
+fontconfig
+
+To install fontconfig, run:
+  brew install fontconfig
+
+==> Casks
+font-oi
+
+To install font-oi, run:
+  brew install --cask font-oi
